@@ -1,0 +1,6 @@
+{
+  "name": "PowerAI Audio Lab Pro",
+  "description": "AI-powered professional music player with stem separation, track mixer, parametric EQ, FX chain, and Dolby Atmos master controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
